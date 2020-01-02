@@ -41,3 +41,5 @@ There are various files in these archives: other than this README, each one can 
 ...
 
 Note that when using development/test data, Weka will insist that the header is _exactly_ the same as the training data. Otherwise, it will refuse to evaluate the model and/or predict the classes of the test instances.
+
+https://www.kaggle.com/c/geolocation/leaderboard#score
